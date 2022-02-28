@@ -1,0 +1,11 @@
+﻿# value of k = m0++/lambda to 3-loop accuracy
+# Taken from https://arxiv.org/pdf/2106.00364.pdf Table 17. and Table 44.
+# SU(N) # k
+2	6.51
+3	6.28
+4	6.26
+5	6.10
+6	6.01
+8	6.06
+10	6.15
+12	6.21

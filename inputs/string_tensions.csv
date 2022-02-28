@@ -1,0 +1,11 @@
+﻿# value of k = sqrt(sigma)/lambda_3loop_MS
+# Taken from https://arxiv.org/pdf/2106.00364.pdf Table 44.
+# SU(N) # k
+2	1.722
+3	1.844
+4	1.915
+5	1.933
+6	1.939
+8	1.955
+10	1.983
+12	1.972
