@@ -2,9 +2,9 @@
  
 Software written by David Curtin, Caleb Gemmell, and Chris Verhaaren 
 
-Stand alone generator found in folder 'GlueShower_v1', while example use and analysis is in folder 'examples'
+Stand alone generator found in folder 'GlueShower_v1', while example use and analysis (with pregenerated data) is in folder 'examples'
 
-See paper "Simulating Glueball Production in $N_f = 0$ QCD" for more details
+See paper "Simulating Glueball Production in $N_f = 0$ QCD" for more details, a subset of analysis performed in the paper is included in the 'examples' folder.
  
 Please contact Caleb Gemmell (caleb.gemmell@mail.utoronto.ca / caleb.b.gemmell@gmail.com) with any issues/problems
 
